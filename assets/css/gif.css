@@ -1,0 +1,60 @@
+#container{
+    margin: auto;
+}
+
+h1{
+    background: blue;
+    margin: auto;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+.#cartoon-btn{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.cartoonButton{
+    border: 1px solid rgb(14, 10, 231);
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 4px;
+    font-family: 'Shadows Into Light Two', cursive;   
+}
+
+#newButtonForm{
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+#newButtonForm{
+    margin: auto;
+}
+
+#gifReturns{
+    margin-left: 10px;
+    margin-top: 15px;
+    border: 1px solid white;
+    width: 25rem
+}
+
+#gifReturns{
+    margin: auto;
+}
+
+#insertHere{
+    border: 1px solid rgb(14, 10, 231);
+    border-radius: 10px;
+    font-style: bold;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 4px;
+    font-family: 'Shadows Into Light Two', cursive; 
+}

@@ -1,2 +1,2 @@
-# GifTastic
-Homework 6 GifTastic
+# homeworkweek6
+Giphy
